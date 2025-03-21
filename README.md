@@ -10,6 +10,8 @@ pip install --upgrade pip
 pip install -r reqs.txt jupyterlab
 ```
 
+Now you can start the jupyter lab by: `jupyter lab`
+
 # Tutorial Notebooks
 
 This repository contains a series of Jupyter notebooks that demonstrate various AI techniques using Claude models from Anthropic. Below is a table highlighting what each notebook covers:
