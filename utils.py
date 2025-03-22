@@ -1,6 +1,6 @@
 from typing import List 
 
-ANTHROPIC_API_KEY = "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"
+ANTHROPIC_API_KEY = "REPLACE ME"
 
 def chunk_text(text: str, chunk_size: int = 500, overlap: int = 50) -> List[str]:
     """Split text into overlapping chunks."""

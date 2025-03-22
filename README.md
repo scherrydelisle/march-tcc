@@ -1,5 +1,7 @@
 # Getting started
 
+https://docs.google.com/presentation/d/1M2Nf39higCWBQXpQ7eEhtj3CerpBFpJ6sd7vaYNYqiw/edit#slide=id.g33afca8ab49_0_7
+
 ```bash 
 # create virtual env
 python -m venv myenv

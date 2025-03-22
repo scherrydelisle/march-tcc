@@ -8,6 +8,3 @@ __pycache__/
 .DS_Store
 myenv/
 soln.txt
-simple_agent_soln.py
-simple_rag_soln.py
-workflow_irl_soln.py
