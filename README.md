@@ -12,7 +12,7 @@ pip install --upgrade pip
 pip install -r reqs.txt jupyterlab
 ```
 
-Api Key = `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`
+Api Key = `REPLACE ME` (from claude console)
 
 Now you can start the jupyter lab by: `jupyter lab`
 
