@@ -1,6 +1,10 @@
 from typing import List 
 
+<<<<<<< Updated upstream
 ANTHROPIC_API_KEY = "REPLACE ME"
+=======
+ANTHROPIC_API_KEY = "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"
+>>>>>>> Stashed changes
 
 def chunk_text(text: str, chunk_size: int = 500, overlap: int = 50) -> List[str]:
     """Split text into overlapping chunks."""
